@@ -12,3 +12,5 @@ Course Description
 While developing and testing applications, you could spend significant time ensuring an app works the same way on different machines. Docker addresses this by providing shareable, lightweight, container-based environments for developing and running applications. However, being a Linux-based platform, using Docker might come with a steep learning curve for beginners or programmers unfamiliar with terminal-centred platforms like Linux. Therefore, this course intends to provide you with a deep understanding of Docker and its use in creating environments.
 
 Git branch created
+
+added to main
